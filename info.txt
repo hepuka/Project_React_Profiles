@@ -1,0 +1,5 @@
+react-icons az npm csomagból
+
+css - CSS MODULE
+
+Card komponens plusszban van, ez végül is csak a children propjába rakná bele a profile komponenst.
